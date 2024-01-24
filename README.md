@@ -1,14 +1,24 @@
 # Supporting Information
 
-<div align="center">
+Here you can find the Supporting Infromation for the paper "Pyrolysis of ellagic acid - A thermodynamic and kinetic study". <br>
 
-Here you can find the Supporting Information for the paper "Pyrolysis of ellagic acid - A thermodynamic and kinetic study".
-
-Animations_of_Reactions     -- contains all animations for all 6 reactions <br>
-Trajectories_of_min_E_paths -- contains the trajectories and .xyz files for the minimum energy paths <br>
-Full_reactions_path.odg     -- the reaction path as depicted in figure 1 in the paper (just a reminder) <br>
-G_TS_and_G_react.png        -- Gibbs energies visualized (see table in the paper)
-
-</div>
+<table>
+  <tr>
+    <td>Animations_of_Reactions</td>
+    <td>Contains all animations for all 6 reactions</td>
+  </tr>
+  <tr>
+    <td>Trajectories_of_min_E_paths</td>
+    <td>Contains the trajectories and .xyz files for the minimum energy paths</td>
+  </tr>
+  <tr>
+    <td>Full_reactions_path.odg</td>
+    <td>The reaction path as depicted in figure 1 in the paper (just a reminder)</td>
+  </tr>
+  <tr>
+    <td>G_TS_and_G_react.png</td>
+    <td>Gibbs energies visualized (see table in the paper)</td>
+  </tr>
+</table>
 
 
