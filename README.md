@@ -1,6 +1,6 @@
 # Supporting Information
 
-Here you can find the Supporting Infromation for the paper "Pyrolysis of ellagic acid - A thermodynamic and kinetic study". <br>
+Here you can find the Supporting Infromation for the paper "Theoretical Insight into Ellagic Acid Pyrolysis". <br>
 
 <table>
   <tr>
